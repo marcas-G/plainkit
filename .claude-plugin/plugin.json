@@ -1,0 +1,9 @@
+{
+  "name": "plainkit",
+  "description": "说人话工具箱：把任何专业内容翻译到你已有的语义空间。含 plain（下译翻译器：说人话/领域桥/长文翻译）和 termcard（术语卡：单术语五格解构）两个 skill。",
+  "version": "0.1.0",
+  "author": {
+    "name": "lgao"
+  },
+  "license": "MIT"
+}
